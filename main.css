@@ -7,12 +7,16 @@ body{
     font-family: 'Saira Condensed', sans-serif;
     height:100px;
 }
-.nav-link{
+.nav-link a{
     font-size: 30px;
-}
-.nav-link: active{
     color:white;
+}
+.nav-link p{
+    font-size: 30px;
 }
 .nasaNav img{
     height:100px;
+}
+footer img{
+    height:50px;
 }
