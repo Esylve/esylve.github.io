@@ -7,13 +7,11 @@ body{
     font-family: 'Saira Condensed', sans-serif;
     height:100px;
 }
-.nav-link a{
+.nasaNav a{
     font-size: 80px;
     color:white;
 }
-.nav-link p{
-    font-size: 80px;
-}
+
 .nasaNav img{
     height:100px;
 }
