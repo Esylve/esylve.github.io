@@ -9,11 +9,14 @@ body{
 }
 .nasaNav a{
     font-size: 40px;
-    margin:20;
     color:white;
+}
+.navlink{
+    margin:20;
+}
+.navlink:hover {
     background-color: #15418c;
 }
-
 .nasaNav img{
     height:100px;
 }
