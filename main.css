@@ -8,14 +8,16 @@ body{
     height:100px;
 }
 .nasaNav a{
-    font-size: 40px;
+    font-size: 30px;
     color:white;
 }
 .navlink{
-    margin:20;
+    margin:10;
+    padding:5;
 }
 .navlink:hover {
     background-color: #15418c;
+    text-decoration: none;
 }
 .nasaNav img{
     height:100px;
