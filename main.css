@@ -1,0 +1,8 @@
+body{
+    background-color:black;
+    color: white;
+}
+.nasaNav{
+    background-image: url(starfield-banner.jpg);
+    font-family: 'Saira Condensed', sans-serif;
+}
