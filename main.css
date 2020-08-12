@@ -8,8 +8,10 @@ body{
     height:100px;
 }
 .nasaNav a{
-    font-size: 80px;
+    font-size: 40px;
+    margin:20;
     color:white;
+    background-color: #15418c;
 }
 
 .nasaNav img{
@@ -20,5 +22,5 @@ footer{
     position: absolute;
 }
 footer img{
-    height:50px;
+    height:80px;
 }
