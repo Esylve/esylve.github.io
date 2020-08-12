@@ -4,7 +4,15 @@ body{
 }
 .nasaNav{
     background-image: url(starfield-banner.jpg);
-    font-size: 30px;
     font-family: 'Saira Condensed', sans-serif;
+    height:100px;
+}
+.nav-link{
+    font-size: 30px;
+}
+.nav-link: active{
+    color:white;
+}
+.nasaNav img{
     height:100px;
 }
