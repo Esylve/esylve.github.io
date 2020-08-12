@@ -17,6 +17,10 @@ body{
 .nasaNav img{
     height:100px;
 }
+footer{
+    bottom: 0;
+    position: absolute;
+}
 footer img{
     height:50px;
 }
