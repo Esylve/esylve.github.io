@@ -29,3 +29,6 @@ footer{
 footer img{
     height:80px;
 }
+.pBoxes{
+    border: 5px solid white;
+}
