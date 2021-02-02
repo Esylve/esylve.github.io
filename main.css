@@ -80,17 +80,18 @@ div.gallery {
   .tagz-title{
       background-color:#5d7fb9;
       color:white;
-      font-size: 30px;
+      font-size: 20px;
       font-weight: bold;
     opacity: 0.85;
     padding: 10px;
   }
   .tagz-desc{
+    width:100%
     background-color: white;
     opacity: 0.85;
     color: black;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 30px;
     font-size: medium;
     padding:10px;
     }
