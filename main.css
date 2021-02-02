@@ -28,7 +28,7 @@ body{
 }
 div.gallery {
     border: 1px solid #ccc;
-    height: 350px;
+    height: 500px;
   }
   
   div.gallery:hover {
@@ -74,4 +74,17 @@ div.gallery {
     content: "";
     display: table;
     clear: both;
+    height: 20px;
   }
+  .tagz-title{
+      background-color:#428bca;
+      color:white;
+      bottom: 100%;
+    position:absolute;
+  }
+  .tagz-desc{
+    width: 100%;
+    background-color: white;
+    bottom: 100%;
+    position:absolute;
+    }
