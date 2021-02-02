@@ -28,6 +28,7 @@ body{
 }
 div.gallery {
     border: 1px solid #ccc;
+    height: 350px;
   }
   
   div.gallery:hover {
@@ -52,7 +53,7 @@ div.gallery {
     padding: 0 6px;
     float: left;
     width: 24.99999%;
-    height: 350px;
+    
     margin-bottom:5px;
   }
   
