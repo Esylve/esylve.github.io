@@ -22,13 +22,7 @@ body{
 .nasaNav img{
     height:100px;
 }
-footer{
-    bottom: 0;
-    position: absolute;
-}
-footer img{
-    height:80px;
-}
+
 .pBoxes{
     border: 5px solid white;
 }
