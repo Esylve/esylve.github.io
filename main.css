@@ -82,13 +82,18 @@ div.gallery {
       color:white;
       font-size: large;
     opacity: 0.85;
+    padding: 10px;
   }
   .tagz-desc{
-    width: 100%;
     background-color: white;
     opacity: 0.85;
     color: black;
     font-size: medium;
+    padding:10px;
+    }
+    .tagz-desc a{
+        color:black;
+        text-decoration: none;
     }
     .tagz-title:hover{
         opacity:1;
