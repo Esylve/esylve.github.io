@@ -25,7 +25,7 @@ body{
 }
 
 .pBoxes{
-    border: 5px solid;
+    border: 5px solid black;
 }
 div.gallery {
     border: 1px solid #ccc;
