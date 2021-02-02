@@ -80,15 +80,15 @@ div.gallery {
   .tagz-title{
       background-color:#428bca;
       color:white;
-      
+      font-size: large;
     opacity: 0.85;
   }
   .tagz-desc{
     width: 100%;
     background-color: white;
-    bottom: 100%;
-    position:absolute;
     opacity: 0.85;
+    color: black;
+    font-size: medium;
     }
     .tagz-title:hover{
         opacity:1;
