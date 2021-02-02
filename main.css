@@ -80,8 +80,7 @@ div.gallery {
   .tagz-title{
       background-color:#428bca;
       color:white;
-      bottom: 100%;
-    position:absolute;
+      
     opacity: 0.85;
   }
   .tagz-desc{
