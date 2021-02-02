@@ -1,6 +1,7 @@
 body{
     background-color:black;
     color: white;
+    font-family:'Saira Condensed', Helvetica, sans-serif;
 }
 .nasaNav{
     background-image: url(/starfield-banner.jpg);
@@ -81,10 +82,18 @@ div.gallery {
       color:white;
       bottom: 100%;
     position:absolute;
+    opacity: 0.85;
   }
   .tagz-desc{
     width: 100%;
     background-color: white;
     bottom: 100%;
     position:absolute;
+    opacity: 0.85;
+    }
+    .tagz-title:hover{
+        opacity:1;
+    }
+    .tagz-desc:hover{
+        opacity:1;
     }
